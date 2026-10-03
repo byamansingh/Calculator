@@ -8,7 +8,7 @@ The compiled `Calculator.jar` is available on the [Releases](../../releases) pag
 
 ## Running
 
-Requires Java 17 or newer.
+Requires Java 25 or newer.
 
 ```bash
 java -jar Calculator.jar
